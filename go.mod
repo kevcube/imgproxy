@@ -28,11 +28,11 @@ require (
 	github.com/trimmer-io/go-xmp v1.0.0
 	go.uber.org/automaxprocs v1.5.1
 	golang.org/x/image v0.0.0-20220601225756-64ec528b34cd
-	golang.org/x/net v0.0.0-20220607020251-c690dde0001d
-	golang.org/x/sys v0.0.0-20220610221304-9f5ed59c137d
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
 	golang.org/x/text v0.3.7
 	google.golang.org/api v0.83.0
-	gopkg.in/DataDog/dd-trace-go.v1 v1.38.1
+	gopkg.in/DataDog/dd-trace-go.v1 v1.41.0
 )
 
 replace git.apache.org/thrift.git => github.com/apache/thrift v0.0.0-20180902110319-2566ecd5d999
