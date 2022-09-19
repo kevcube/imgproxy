@@ -28,10 +28,10 @@ require (
 	github.com/trimmer-io/go-xmp v1.0.0
 	go.uber.org/automaxprocs v1.5.1
 	golang.org/x/image v0.0.0-20220601225756-64ec528b34cd
-	golang.org/x/net v0.0.0-20220607020251-c690dde0001d
-	golang.org/x/sys v0.0.0-20220610221304-9f5ed59c137d
+	golang.org/x/net v0.0.0-20220909164309-bea034e7d591
+	golang.org/x/sys v0.0.0-20220728004956-3c1f35247d10
 	golang.org/x/text v0.3.7
-	google.golang.org/api v0.83.0
+	google.golang.org/api v0.96.0
 	gopkg.in/DataDog/dd-trace-go.v1 v1.38.1
 )
 
