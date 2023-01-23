@@ -8,7 +8,7 @@ require (
 	github.com/Microsoft/go-winio v0.5.2 // indirect
 	github.com/StackExchange/wmi v1.2.1 // indirect
 	github.com/airbrake/gobrake/v5 v5.5.1
-	github.com/aws/aws-sdk-go v1.44.32
+	github.com/aws/aws-sdk-go v1.44.184
 	github.com/benesch/cgosymbolizer v0.0.0-20190515212042-bec6fe6e597b
 	github.com/bugsnag/bugsnag-go/v2 v2.1.2
 	github.com/fsouza/fake-gcs-server v1.38.2
@@ -28,9 +28,9 @@ require (
 	github.com/trimmer-io/go-xmp v1.0.0
 	go.uber.org/automaxprocs v1.5.1
 	golang.org/x/image v0.0.0-20220601225756-64ec528b34cd
-	golang.org/x/net v0.0.0-20220607020251-c690dde0001d
-	golang.org/x/sys v0.0.0-20220610221304-9f5ed59c137d
-	golang.org/x/text v0.3.7
+	golang.org/x/net v0.1.0
+	golang.org/x/sys v0.1.0
+	golang.org/x/text v0.4.0
 	google.golang.org/api v0.83.0
 	gopkg.in/DataDog/dd-trace-go.v1 v1.38.1
 )
